@@ -1,14 +1,14 @@
 ﻿# Define database connection parameters
-$onpremServer = "CPI-Antares-Prod"
+$onpremServer = "CPI-1235-Prod"
 $onpremDatabase = "BIDA"
-$onpremUser = "LINKSERVER"
-$onpremPassword = "DustB0wl*"
+$onpremUser = "USERTEST"
+$onpremPassword = "PAssword*"
 
 
-$azureServer = "cpigoogleanalytics.database.windows.net"
+$azureServer = "AzureTest.database.windows.net"
 $azureDatabase = "ERPData"
-$azureUser = "g4service2024"
-$azurePassword = "6hoqDaQ4KKP3"
+$azureUser = "Userhere"
+$azurePassword = "PasswordHere"
 
 
 # Function to Test SQL Connection
