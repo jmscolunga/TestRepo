@@ -1,3 +1,6 @@
+
+# this is a change for test
+
 $cred = Get-Credential -Message "Enter domain credentials for remote uninstall and install."
 
 $installer = "\\CPI-PXA-F5RM-37\Crystal\CR13SP34MSI32_0-80007712 (32 bits).MSI"
